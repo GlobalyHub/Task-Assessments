@@ -1,4 +1,4 @@
-# Mobile Software Engineer - Task Assessment (React Native)
+# Software Engineer (Mobile) - React Native Task
 Please attempt the following assessment and share with us your Github or any repository
 that you use to complete your task at careers@introcept.co
 
