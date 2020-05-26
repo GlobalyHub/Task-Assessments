@@ -1,4 +1,4 @@
-# Software Engineer (Frontend) - Task Assessment (React.JS)
+# Software Engineer (Frontend) - React.JS Task
 Please attempt the following assessment and share with us your Github or any repository that
 you use to complete your task at careers@introcept.co
 
