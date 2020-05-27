@@ -14,7 +14,7 @@ Write your answers in plain text for the general questions. If the questions req
 
 ### 2. Find any errors in this code snippet and correct them:
 
-``  
+\``  
 removeStudentsWithoutGrade(studentsInfo)\
 ; const studentsInfo = [\
 { id: 1, name: ‘student1’, grade: 0 }, { id: 2, name:\
@@ -24,4 +24,4 @@ id: 4, name: ‘student4’, grade: 3 }, { id: 5, name: ‘student5,grade: 0 }, 
 ; const removeStudentsWithoutGrade = (items) => {\
 return items.filter(item => !!item.grade) || []; }\
 studentsInfo = [];\
-console.log(removeStudentsWithoutGrade); ``\
+console.log(removeStudentsWithoutGrade); ``
