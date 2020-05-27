@@ -1,6 +1,6 @@
 # Graphic Designer - Digital Design Task
 
-You can choose to complete any 2 of the given 3 tasks.
+You can choose to complete any 2 of the given 3 tasks. Please complete and submit all tasks/answers by due date to careers@introcept.co.
 
 ## Task 1
 Design a Facebook post to promote QR Code feature of Agentcis system.
