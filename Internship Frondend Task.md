@@ -9,8 +9,8 @@ Write your answers in plain text for the general questions. If the questions req
 5. What mediums do you prefer to learn programming?
 
 ## HTML/JS Questions
-### 1. Create a simple webpage with a functioning calculator with basic functions like addition, subtraction, multiplication and division. (No need to focus hard on the
-design. Functionality is key) 
+### 1. Create a simple webpage with a functioning calculator with basic functions like addition, subtraction, multiplication and division. 
+(No need to focus hard on the design. Functionality is key) 
 
 ### 2. Find any errors in this code snippet and correct them:
 
