@@ -1,4 +1,4 @@
-# Task-Assessments for Full-Time Permanent Role
+# Task Assessments for Full-Time Permanent Role
 
 Please choose from one of the following task that is relevant to your applied position.
 - <a href="https://github.com/IntroCept/Task-Assessments/blob/master/Backend%20Nest%20JS%20Task.md">Software Engineer (Back End) - Nest.js Task</a>
@@ -6,7 +6,7 @@ Please choose from one of the following task that is relevant to your applied po
 - <a href="https://github.com/IntroCept/Task-Assessments/blob/master/Mobile%20React%20Native%20Task.md">Software Engineer (Mobile) - React Native Task</a>
 - <a href="https://github.com/IntroCept/Task-Assessments/blob/master/Graphic%20Designer%20Task.md">Graphic Designer (Digital & Print Media) - Digital Design Task</a>
 
-# Task-Assessments for 3 Months Internship Role
+# Task Assessments for 3 Months Internship Role
 
 Please choose from one of the following task that is relevant to your applied position.
 - <a href="">Back End Development Task</a>
