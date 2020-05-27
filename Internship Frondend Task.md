@@ -14,16 +14,14 @@ Write your answers in plain text for the general questions. If the questions req
 
 ### 2. Find any errors in this code snippet and correct them:
 
-``
-removeStudentsWithoutGrade(studentsInfo)
-; const studentsInfo = [
-{ id: 1, name: ‘student1’, grade: 0 }, { id: 2, name:
-‘student2’, grade: 2 }, { id: 3, name: ‘student3’, grade: 4 } {
-id: 4, name: ‘student4’, grade: 3 }, { id: 5, name: ‘student5,
-grade: 0 }, ]; studentsInfo.push({ id: 99, name: ‘student99’,
-grade: 100 }); const removeStudentsWithoutGrade =
-
-(items) => {
-return items.filter(item => !!item.grade) || []; }
-studentsInfo = [];
-console.log(removeStudentsWithoutGrade); ``
+``\
+removeStudentsWithoutGrade(studentsInfo)\
+; const studentsInfo = [\
+{ id: 1, name: ‘student1’, grade: 0 }, { id: 2, name:\
+‘student2’, grade: 2 }, { id: 3, name: ‘student3’, grade: 4 } {\
+id: 4, name: ‘student4’, grade: 3 }, { id: 5, name: ‘student5,grade: 0 }, ]\
+; studentsInfo.push({ id: 99, name: ‘student99’,grade: 100 })\
+; const removeStudentsWithoutGrade = (items) => {\
+return items.filter(item => !!item.grade) || []; }\
+studentsInfo = [];\
+console.log(removeStudentsWithoutGrade); ``\
