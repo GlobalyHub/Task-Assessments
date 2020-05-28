@@ -1,6 +1,6 @@
 # Graphic Designer - Digital Design Task
 
-Please attempt the following assessment and share your task repository by completing task submission form here - http://nepal.introcept.co/job-application-task-submission/. 
+Please attempt the following assessment and share your task by completing task submission form here - http://nepal.introcept.co/job-application-task-submission/. 
 
 ## Task 1
 Design a Facebook post to promote QR Code feature of Agentcis system.
