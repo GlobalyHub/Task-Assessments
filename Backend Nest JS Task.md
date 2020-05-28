@@ -1,6 +1,5 @@
 # Software Engineer (Backend) - Typescript / Nest.JS Task 
-Please attempt the following assessment and share with us your Github or any repository that
-you use to complete your task at careers@introcept.co
+Please attempt the following assessment and share your task repository by completing task submission form here - http://nepal.introcept.co/job-application-task-submission/. 
 
 The task is to build a part of the client section of a system. It should be done in max 7
 days after receiving it if not communicated otherwise.
