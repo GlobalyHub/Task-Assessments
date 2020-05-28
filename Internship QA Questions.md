@@ -1,5 +1,6 @@
 # Intern QA Engineer - Questionnaire
-Please complete and submit all answers by due date to careers@introcept.co
+
+Please attempt the following assessment and share your task by completing task submission form here - http://nepal.introcept.co/job-application-task-submission/.
 
 1. What is Software testing and why it is required?
 2. What are quality assurance and quality control?
