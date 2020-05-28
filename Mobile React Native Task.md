@@ -1,6 +1,5 @@
 # Software Engineer (Mobile) - React Native Task
-Please attempt the following assessment and share with us your Github or any repository
-that you use to complete your task at careers@introcept.co
+Please attempt the following assessment and share your task repository by completing task submission form here - http://nepal.introcept.co/job-application-task-submission/. 
 
 ## Task
 Write a simple application in react (or react native) that can take
