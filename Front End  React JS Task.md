@@ -1,6 +1,5 @@
 # Software Engineer (Frontend) - React.JS Task
-Please attempt the following assessment and share with us your Github or any repository that
-you use to complete your task at careers@introcept.co
+Please attempt the following assessment and share your task repository by completing task submission form here - http://nepal.introcept.co/job-application-task-submission/. 
 
 ## Task
 Create a Pokedex application that lists all the pokemon and their
