@@ -1,7 +1,5 @@
 # Graphic Designer - Digital Design Task
 
-Please attempt the following assessment and share your task by completing task submission form here - http://nepal.introcept.co/job-application-task-submission/. 
-
 ## Task 1
 Design a Facebook post to promote QR Code feature of Agentcis system.
 
@@ -21,3 +19,8 @@ Design a short 5 seconds animation of a student going abroad to study. Write you
 
 ## Task 3
 Create a video post ad for a education provider who needs to promote <a href="https://www.ait.edu.au/courses/digital-design-courses">Interactive Design course</a>. Write your own content.
+
+
+## Task Submission
+
+Once completed, please share your task repository or details by completing task submission form here - http://nepal.introcept.co/job-application-task-submission/.
