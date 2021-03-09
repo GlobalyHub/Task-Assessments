@@ -1,4 +1,4 @@
-#Task for Software Engineer (Full Stack) - PHP / Javascript
+# Task for Software Engineer (Full Stack) - PHP / Javascript
 
 This is a simple coding task not a coding challenge. This has only **Create and Read** of the small CRUD part for the 
 client section of the application.
