@@ -19,7 +19,7 @@ Things to do
     7. Nationality
     8. Date of birth
     9. Education background
-     10.Preferred mode of contact (select one from email, phone, none)
+    10.Preferred mode of contact (select one from email, phone, none)
 11.You can be creative with the fields.
 12.Add relevant validation to the form both frontend (js) and backend (Nest.js)
 13.After form submission, if fields are valid save to a csv file
@@ -76,3 +76,8 @@ This task can be done by a student, a software engineer with 1 year experience o
 software engineer with 5+ years of experience. The main question is do you aim for
 100/100 or just 40/100 that will just pass you in the task, make a wise decision. Don't do
 things to just make it work, think about making it maintainable too.
+
+### Task Submission
+
+Once completed, please share your task repository or details by completing task submission form here - http://nepal.introcept.co/job-application-task-submission/.
+
