@@ -1,4 +1,4 @@
-# Software Engineer (Frontend) - React.JS Task
+# Software Engineer (Frontend) - Task
 
 ## Task
 Create a Pokedex application that lists all the pokemon and their
@@ -25,7 +25,7 @@ with anything you are comfortable with.
 - API - https://pokeapi.co/)
 
 ## Bonus points
-- Implementation using a modern JS framework or library (Preferably React)
+- Implementation using a modern JS framework or library (Preferably React or Vue.js)
 - All the codes are tested (Jest, Jasmine, Mocha, etc.)
 - Implementation of any state management library such as Redux, Vuex, etc.
 - Better UI/UX experience than the provided Sample Project in the reference.
