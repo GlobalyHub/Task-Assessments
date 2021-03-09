@@ -6,9 +6,9 @@ details. The app should be purely a frontend application. It can be built
 with anything you are comfortable with.
 
 ## User Story
-● Users should be able to find all the pokemon.
-● Users should be able to filter the pokemon by Name, Gender, Region and Habitat.
-● Users should be able to see the details of the selected Pokemon.
+- Users should be able to find all the pokemon.
+- Users should be able to filter the pokemon by Name, Gender, Region and Habitat.
+- Users should be able to see the details of the selected Pokemon.
 
 ## Pre-requisites:
 - Sound knowledge of ES6
@@ -25,10 +25,10 @@ with anything you are comfortable with.
 - API - https://pokeapi.co/)
 
 ## Bonus points
-● Implementation using a modern JS framework or library (Preferably React)
-● All the codes are tested (Jest, Jasmine, Mocha, etc.)
-● Implementation of any state management library such as Redux, Vuex, etc.
-● Better UI/UX experience than the provided Sample Project in the reference.
+- Implementation using a modern JS framework or library (Preferably React)
+- All the codes are tested (Jest, Jasmine, Mocha, etc.)
+- Implementation of any state management library such as Redux, Vuex, etc.
+- Better UI/UX experience than the provided Sample Project in the reference.
 
 ## Task Submission
 
