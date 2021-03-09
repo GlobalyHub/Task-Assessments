@@ -1,5 +1,4 @@
 # Software Engineer (Frontend) - React.JS Task
-Please attempt the following assessment and share your task repository by completing task submission form here - http://nepal.introcept.co/job-application-task-submission/. 
 
 ## Task
 Create a Pokedex application that lists all the pokemon and their
@@ -30,3 +29,7 @@ with anything you are comfortable with.
 ● All the codes are tested (Jest, Jasmine, Mocha, etc.)
 ● Implementation of any state management library such as Redux, Vuex, etc.
 ● Better UI/UX experience than the provided Sample Project in the reference.
+
+## Task Submission
+
+Once completed, please share your task repository or details by completing task submission form here - http://nepal.introcept.co/job-application-task-submission/.
