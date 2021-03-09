@@ -5,18 +5,16 @@ client section of the application.
 
 ### Task
 
-Things to do
-
 1. Create a form to get 
    1. Name
    2. Gender
    3. Phone 
-  4. Email 
-  1. Address
-  1. Nationality
-  1. Date of birth
-  1. Education background 
-  1. Preferred mode of contact (select one from email, phone, none)
+   4. Email 
+   1. Address
+   1. Nationality
+   1. Date of birth
+   1. Education background 
+   1. Preferred mode of contact (select one from email, phone, none)
 2. You can be creative with the fields.
 3. Add relevant validation to the form both frontend (js) and backend (php)
 4. After form submission, if fields are valid save to a csv file
