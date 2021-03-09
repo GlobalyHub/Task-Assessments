@@ -36,7 +36,7 @@ Things to do
 ### Rules/Requirements
 
 1. This task needs to be completed and submitted back within 72 hours of receiving it, if not stated otherwise.
-1. You can must use **Laravel 5.x** framework.
+1. You must use **Laravel** framework of version **5.x** or above.
 1. You will need to use PSR-O or PSR-4 autoloading. **PSR-4 preferred**.
 1. Code must be comply with **PSR-2 coding standards**. You can use [styleci](https://styleci.io/) for this.
 1. You must have a readme.md file in the root, **well formatted in markdown** (like the one you are reading now) that explains your solution.
@@ -51,7 +51,7 @@ Things to do
 1. Adding any form of automated tests like unit or functional will be a plus point. **PHPUnit preferred**.
 1. Wiring up your tests with a continuous integration (CI) service and reporting coverage is a huge plus. **Wercker.com is a good free CI even for private repos**. If you open source your code and use Travis CI that is also fine.
 1. Application level logging following PSR-2 starndards with saving logs in a cloud logging service (like logentries.com) **is preferred**. For example log that the client is created successfully.
-1. Hosting your small application in free service provider will earn you additional points. Think of first level security too. You can host in on [Zeit](https://zeit.co/) with now-cli, Heroku, http://pagodabox.io/, **elastx.se/en** or any free host. If you use a free host do mention how you deployed the application. 
+1. Hosting your small application in free service provider will earn you additional points. Think of first level security too. You can host in on [Zeit](https://zeit.co/) with now-cli, Heroku, **elastx.se/en** or any free host. If you use a free host do mention how you deployed the application. 
 1. If you can run your repo through a code quality checking service like [codeclimate](https://codeclimate.com/) it would be great. 
 1. Any relevant details in the readme.me file **is a plus**.
 
