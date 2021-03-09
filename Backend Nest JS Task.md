@@ -13,17 +13,17 @@ Things to do
 1. Create a form to get
     1. Name
     1. Gender
-    4. Phone
-    5. Email
-    6. Address
-    7. Nationality
-    8. Date of birth
-    9. Education background
-    10.Preferred mode of contact (select one from email, phone, none)
-11.You can be creative with the fields.
-12.Add relevant validation to the form both frontend (js) and backend (Nest.js)
-13.After form submission, if fields are valid save to a csv file
-14.Show all clients pulled in from the CSV as another page
+    1. Phone
+    1. Email
+    1. Address
+    1. Nationality
+    1. Date of birth
+    1. Education background
+    1. Preferred mode of contact (select one from email, phone, none)
+1. You can be creative with the fields.
+1. Add relevant validation to the form both frontend (js) and backend (Nest.js)
+1. After form submission, if fields are valid save to a csv file
+1. Show all clients pulled in from the CSV as another page
 
 ## Things to consider
 1. As the task is easy, we will look into the software design part of things, just
