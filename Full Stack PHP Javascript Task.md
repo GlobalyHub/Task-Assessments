@@ -3,7 +3,7 @@
 This is a simple coding task not a coding challenge. This has only **Create and Read** of the small CRUD part for the 
 client section of the application.
 
-### Task
+## Task
 
 1. Create a form to get 
    1. Name
@@ -20,7 +20,7 @@ client section of the application.
 4. After form submission, if fields are valid save to a csv file
 5. Show all clients pulled in from the CSV as another page
 
-### Things to consider
+## Things to consider
 
 1. As the task is easy, we will look into the software design part of things, just making it work is not enough.
 1. Naming classes, methods and variables properly will be checked.
@@ -31,7 +31,7 @@ client section of the application.
 1. Tip: First break your task into logical parts then code it. (First solve the problem. Then write code. - John Johnson)
 1. Tip: Commented code is bad, relavant comments about code will be necessary. PHP docs are right places will be appriciated.
 
-### Rules/Requirements
+## Rules/Requirements
 
 1. This task needs to be completed and submitted back within 72 hours of receiving it, if not stated otherwise.
 1. You must use **Laravel** framework of version **5.x** or above.
@@ -42,7 +42,7 @@ client section of the application.
 1. You can use any front-end library or framework, **bootstrap preferred**. You can even use jquery or other javascript library for validation.
 1. You must use git and submit this task as a **private or public git repository on github/bitbucket** another option is a zip/tar file.
 
-### Bonus points
+## Bonus points
 
 1. If you can add detail view page to the listing page, it will be good.
 1. Adding pagination will earn you some more point.
@@ -53,12 +53,12 @@ client section of the application.
 1. If you can run your repo through a code quality checking service like [codeclimate](https://codeclimate.com/) it would be great. 
 1. Any relevant details in the readme.me file **is a plus**.
 
-### Final Note 
+## Final Note 
 
 Just completing the task might be at 2-4 hour job. If you just complete the requirements of the task its like getting 40 out of 100. You have been given 7 days so roughly 24 hours (work time) considering that you will invest time in learning things you might not know like automated testing, CI and logging with libraries like monolog and even deploy the app. If you surprise us with a dockerfile in your solution we will be happy.
 
 This task can be done by a student, a software engineer with 1 year experience or a software engineer with 5+ years of experience. The main **question is do you aim for 100/100 or just 40/100** that will just pass you in the task, take a wise decision. Don't do things to just make it work, think about making it maintainable too.
 
-### Task Submission
+## Task Submission
 
 Once completed, please share your task repository or details by completing task submission form here - http://nepal.introcept.co/job-application-task-submission/.
