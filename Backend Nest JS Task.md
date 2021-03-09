@@ -1,4 +1,4 @@
-# Software Engineer (Backend) - Typescript / Nest.JS Task 
+# Software Engineer (Full Stack) - Typescript / Nest.JS Task 
 Please attempt the following assessment and share your task repository by completing task submission form here - http://nepal.introcept.co/job-application-task-submission/. 
 
 The task is to build a part of the client section of a system. It should be done in max 7
@@ -59,7 +59,7 @@ coverage is a huge plus. Wercker.com is a good free CI even for private repos. I
 you open source your code and use Travis CI that is also fine.
 5. Hosting your small application in a free service provider will earn you additional
 points. Think of first level security too. You can host in on Zeit with now-cli,
-Heroku, http://pagodabox.io/, elastx.se/en or any free host. If you use a free host
+Heroku, elastx.se/en or any free host. If you use a free host
 do mention how you deployed the application.
 6. If you can run your repo through a code quality checking service like codeclimate
 it would be great.
