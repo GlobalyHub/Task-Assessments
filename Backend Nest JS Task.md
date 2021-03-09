@@ -11,15 +11,15 @@ the small CRUD part for the client section of the application.
 ## Task
 Things to do
 1. Create a form to get
-2. Name
-3. Gender
-4. Phone
-5. Email
-6. Address
-7. Nationality
-8. Date of birth
-9. Education background
-10.Preferred mode of contact (select one from email, phone, none)
+    1. Name
+    1. Gender
+    4. Phone
+    5. Email
+    6. Address
+    7. Nationality
+    8. Date of birth
+    9. Education background
+     10.Preferred mode of contact (select one from email, phone, none)
 11.You can be creative with the fields.
 12.Add relevant validation to the form both frontend (js) and backend (Nest.js)
 13.After form submission, if fields are valid save to a csv file
