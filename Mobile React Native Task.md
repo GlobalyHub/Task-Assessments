@@ -1,5 +1,4 @@
 # Software Engineer (Mobile) - React Native Task
-Please attempt the following assessment and share your task repository by completing task submission form here - http://nepal.introcept.co/job-application-task-submission/. 
 
 ## Task
 Write a simple application in react (or react native) that can take
@@ -26,3 +25,8 @@ bonus points on keeping it simple and functional.
 huge plus. Wercker.com is a good free CI even for private repos. If you open source your
 code and use Travis CI that is also fine.
 - Any relevant details in the readme.me file is a plus.
+
+
+## Task Submission
+
+Once completed, please share your task repository or details by completing task submission form here - http://nepal.introcept.co/job-application-task-submission/.
