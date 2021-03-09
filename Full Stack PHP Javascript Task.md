@@ -8,9 +8,9 @@ client section of the application.
 Things to do
 
 1. Create a form to get 
-  1. Name
-  2. Gender
-  3. Phone 
+   1. Name
+   2. Gender
+   3. Phone 
   4. Email 
   1. Address
   1. Nationality
