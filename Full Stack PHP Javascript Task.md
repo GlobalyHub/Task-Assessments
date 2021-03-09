@@ -34,13 +34,13 @@ client section of the application.
 ## Rules/Requirements
 
 1. This task needs to be completed and submitted back within 72 hours of receiving it, if not stated otherwise.
-1. You must use **Laravel** framework of version **5.x** or above.
+1. You must use **Laravel** framework of latest version.
 1. You will need to use PSR-O or PSR-4 autoloading. **PSR-4 preferred**.
 1. Code must be comply with **PSR-2 coding standards**. You can use [styleci](https://styleci.io/) for this.
 1. You must have a readme.md file in the root, **well formatted in markdown** (like the one you are reading now) that explains your solution.
 1. Use of any extra open-source library or package is allowed only via **composer/packgist**. You will need to explain why you used it in the read me file.
-1. You can use any front-end library or framework, **bootstrap preferred**. You can even use jquery or other javascript library for validation.
-1. You must use git and submit this task as a **private or public git repository on github/bitbucket** another option is a zip/tar file.
+2. Backend must be an api and you can use any frontend library like **vuejs** or **react** (vuejs preferred).
+4. You must use git and submit this task as a **private or public git repository on github/bitbucket** another option is a zip/tar file.
 
 ## Bonus points
 
