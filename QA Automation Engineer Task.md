@@ -4,7 +4,7 @@ This is a simple QA automated testing task for QA engineer who is focused more o
 
 ## Task
 
-Please access the following sample application - http://computer-database.herokuapp.com/computers 315
+Please access the following sample application - http://computer-database.herokuapp.com/computers
 
 1. Create a series of manual test cases that cover the CRUD operation plus the edge cases. Make sure you give detailed instructions for each test case (pre conditions, steps, expected results). You can use any format you want.
 2. Write scripts that would automate the manual test cases that you see fit to be included in a regression test set. Please use any preferred programming languages.
