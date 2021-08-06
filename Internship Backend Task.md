@@ -14,14 +14,11 @@ prefer using) or a cool project that you've recently worked on (if any).
 mediums do you prefer to learn programming?
 
 
-## Practical Questions (Comlete any 1 of the following)
-### 1. Create a form with the field types given below. 
+## Task
+### Create a form with the field types given below. 
 Submit the form using a button named Submit. After submission, validate these fields in PHP or Node.js and show the validation error in the form. (e.g. of field types: number, text, radio, checkbox, etc.)
 - Name (Text) - Must be required and at least 5 characters
 - Email (Text) - Must be required and invalid email format 
 - Phone (Number) - Must be required and numeric 
 - Gender (Radio button) - Must be Male/Female/Others 
 - Hobbies (Checkbox) eg. Reading, Traveling, Listening to music, etc. 
-
-
-### 2. Write a simple program in PHP demonstrating Object-Oriented Programming (OOP).
