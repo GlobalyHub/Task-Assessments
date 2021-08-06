@@ -1,6 +1,6 @@
 # Software Engineer Intern (Back End) - Task Assessment
 
-Write your answers in plain text for the general questions. If the questions require you to write code, please attach the files with the file name like ‘PHP/JS_QuestionNumber’ or attach the codepen, codesandbox, jsfiddle or any online code editor links with the same name. Please attempt all the General and PHP questions. Please do not copy and paste answers.
+Write your answers in plain text for the general questions. If the questions require you to write code, please attach the files or attach the codepen, codesandbox, jsfiddle or any online code editor links with the same name. Please do not copy and paste answers.
 
 Please attempt the following assessment and share your task repository by completing task submission form here - http://nepal.introcept.co/job-application-task-submission/. 
 
