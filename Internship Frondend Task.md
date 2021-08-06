@@ -1,5 +1,5 @@
 # Software Engineer Intern (Front End) - Task Assessment
-Write your answers in plain text for the general questions. If the questions require you to write code, please attach the files with the file name like ‘JS_QuestionNumber’ or attach the codepen, codesandbox, jsfiddle or any online code editor links with the same name. Please attempt all the HTML/JS questions and the general questions. Please do not copy and paste answers.
+Write your answers in plain text for the general questions. If the questions require you to write code,please use codepen, codesandbox, jsfiddle or any online code editor links.Please do not copy and paste answers.
 
 Please attempt the following assessment and share your task url by completing task submission form here - http://nepal.introcept.co/job-application-task-submission/. 
 
@@ -14,5 +14,4 @@ Please attempt the following assessment and share your task url by completing ta
 Creat a Counter component in Vue.js/Reactjs. 
 We should be able to reset,increment or decrement the counter.
 
-You can use https://codepen.io/ to create the above described component and submit the codepen url for that component.
 
