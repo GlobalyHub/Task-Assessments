@@ -30,6 +30,3 @@ with anything you are comfortable with.
 - Implementation of any state management library such as Redux, Vuex, etc.
 - Better UI/UX experience than the provided Sample Project in the reference.
 
-## Task Submission
-
-Once completed, please share your task repository or details by completing task submission form here - http://nepal.introcept.co/job-application-task-submission/.
