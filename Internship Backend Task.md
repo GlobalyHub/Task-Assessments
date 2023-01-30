@@ -2,7 +2,7 @@
 
 Write your answers in plain text for the general questions. If the questions require you to write code, please attach the files or attach the codepen, codesandbox, jsfiddle or any online code editor links with the same name. Please do not copy and paste answers.
 
-Please attempt the following assessment and share your task repository by completing task submission form here - http://nepal.introcept.co/job-application-task-submission/. 
+Please attempt the following assessment and share your task repository through email at career@globalyhub.com. 
 
 
 ## General Questions (Answer all questions)
@@ -22,3 +22,7 @@ Submit the form using a button named Submit. After submission, validate these fi
 - Phone (Number) - Must be required and numeric 
 - Gender (Radio button) - Must be Male/Female/Others 
 - Hobbies (Checkbox) eg. Reading, Traveling, Listening to music, etc. 
+
+## Task Submission
+
+Once completed, please share your task repository or details through email at career@globalyhub.com.
