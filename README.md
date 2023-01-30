@@ -8,7 +8,8 @@ Please choose from one of the following task that is relevant to your applied po
 - <a href="https://github.com/IntroCept/Task-Assessments/blob/master/QA%20Automation%20Engineer%20Task.md"> Test Automation Engineer Task</a>
 - <a href="https://github.com/IntroCept/Task-Assessments/blob/master/Graphic%20Designer%20Task.md">Graphic Designer (Digital & Print Media) - Digital Design Task</a>
 
-Please attempt the following assessment and share your task repository or details by completing task submission form here - http://nepal.introcept.co/job-application-task-submission/. 
+Please attempt the following assessment and share your task repository or details through email - career@globalyhub.com.
+
 
 # Task Assessments for 3 Months Internship Role
 
@@ -17,4 +18,5 @@ Please choose from one of the following task that is relevant to your applied po
 - <a href="https://github.com/IntroCept/Task-Assessments/blob/master/Internship%20Frondend%20Task.md">Front End Development Task</a>
 - <a href="https://github.com/IntroCept/Task-Assessments/blob/master/Internship%20QA%20Questions.md">QA Questionnaires</a>
 
-Please attempt the following assessment and share your task repository by completing task submission form here - http://nepal.introcept.co/job-application-task-submission/. 
+
+Please attempt the following assessment and share your task repository or details through email - career@globalyhub.com.
