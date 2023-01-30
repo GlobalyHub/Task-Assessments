@@ -8,10 +8,9 @@ Please attempt the following assessment and share your task repository through e
 ## General Questions (Answer all questions)
 1. What excites or interests you about coding? What did you learn this week?
 2. What is a recent technical challenge you experienced and how did you solve it?
-3. Talk about your preferred development environment (tools and technologies you
-prefer using) or a cool project that you've recently worked on (if any). 
-4. What is your general expectation from this internship program? 5. What
-mediums do you prefer to learn programming?
+3. Talk about your preferred development environment (tools and technologies you prefer using) or a cool project that you've recently worked on (if any). 
+4. What is your general expectation from this internship program? 
+5. What mediums do you prefer to learn programming?
 
 
 ## Task
