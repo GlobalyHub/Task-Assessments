@@ -11,6 +11,4 @@ Please access the following sample application - http://computer-database.heroku
 
 ## Task Submission
 
-Once completed, please share your task repository or details by completing task submission form here - http://nepal.introcept.co/job-application-task-submission/.
-
-
+Once completed, please share your task repository or details through email at career@globalyhub.com.
