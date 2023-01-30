@@ -61,4 +61,6 @@ This task can be done by a student, a software engineer with 1 year experience o
 
 ## Task Submission
 
-Once completed, please share your task repository or details by completing task submission form here - http://nepal.introcept.co/job-application-task-submission/.
+## Task Submission
+
+Once completed, please share your task repository or details through email at career@globalyhub.com.
