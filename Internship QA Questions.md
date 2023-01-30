@@ -1,6 +1,6 @@
 # Intern QA Engineer - Questionnaire
 
-Please attempt the following assessment and share your task by completing task submission form here - http://nepal.introcept.co/job-application-task-submission/.
+Please attempt the following assessment and share your answers through email at career@globalyhub.com.
 
 1. What is Software testing and why it is required?
 2. What are quality assurance and quality control?
@@ -13,3 +13,7 @@ Please attempt the following assessment and share your task by completing task s
 9. Test plan, Test strategy, Test method, and Test cases
 10. Automated testing and types of software testing tools
 11. Web application and web services
+
+## Task Submission
+
+Once completed, please share your answers through email at career@globalyhub.com.
