@@ -1,5 +1,5 @@
 # Software Engineer (Full Stack) - Typescript / Nest.JS Task 
-Please attempt the following assessment and share your task repository or any attachments through email. 
+Please attempt the following assessment and share your task repository or any attachments through email at career@globalyhub.com. 
 
 The task is to build a part of the client section of a system. It should be done in max 7
 days after receiving it if not communicated otherwise.
@@ -79,5 +79,5 @@ things to just make it work, think about making it maintainable too.
 
 ## Task Submission
 
-Once completed, please share your task repository or details by completing task submission form here - http://nepal.introcept.co/job-application-task-submission/.
+Once completed, please share your task repository or details through email at career@globalyhub.com.
 
