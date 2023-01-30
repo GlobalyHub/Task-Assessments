@@ -1,5 +1,5 @@
 # Software Engineer (Full Stack) - Typescript / Nest.JS Task 
-Please attempt the following assessment and share your task repository by completing task submission form here - http://nepal.introcept.co/job-application-task-submission/. 
+Please attempt the following assessment and share your task repository or any attachments through email. 
 
 The task is to build a part of the client section of a system. It should be done in max 7
 days after receiving it if not communicated otherwise.
