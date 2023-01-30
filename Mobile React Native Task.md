@@ -29,4 +29,4 @@ code and use Travis CI that is also fine.
 
 ## Task Submission
 
-Once completed, please share your task repository or details by completing task submission form here - http://nepal.introcept.co/job-application-task-submission/.
+Once completed, please share your submitted task details or any documents through email at career@globalyhub.com.
