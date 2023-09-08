@@ -12,7 +12,8 @@ with anything you are comfortable with.
 
 ## Pre-requisites:
 - Sound knowledge of ES6
-- Ajax
+- fetch / xmlhttprequest
+
 
 ## Requirements:
 - Frontend only app
@@ -26,8 +27,9 @@ with anything you are comfortable with.
 
 ## Bonus points
 - Implementation using a modern JS framework or library (Preferably React or Vue.js)
-- All the codes are tested (Jest, Jasmine, Mocha, etc.)
-- Implementation of any state management library such as Redux, Vuex, etc.
+- All the codes are tested (Jest, react-testing-library, jasmine, Mocha, etc.)
+- Implementation of any state management library such as mobx, zustand, etc...
+- Readability  of code - Component organising, separation of presentation vs other concerns
 - Better UI/UX experience than the provided Sample Project in the reference.
 
 ## Task Submission
