@@ -11,7 +11,7 @@ Please attempt the following assessment and share your task url or details throu
 5. What mediums do you prefer to learn programming?
 
 ## Task
-Creat a Counter component in Vue.js/Reactjs. 
+Create a Counter component in Vue.js/Reactjs. 
 We should be able to reset,increment or decrement the counter.
 
 ## Task Submission
